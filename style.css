@@ -1,0 +1,23 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+
+.header{
+    padding-top: 30px;
+    font-size: 32px;
+}
+
+.table1{
+    border-spacing: 15px;
+}
+
+.table2{
+    border-spacing: 20px;
+    text-align: center;
+}
+.table2 td{
+    border:solid darkorange;
+}
+
+
